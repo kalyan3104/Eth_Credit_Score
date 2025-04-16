@@ -1,0 +1,2042 @@
+[
+  {
+    "address": "0xa825518CBb966DCE10165B03C1097D77C57E4BA6",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.5633708746344955e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x87aF1a5A56bB4A392e2Fca6FE9C13B7Ec8A34df6",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.4864497008147062e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x36c0913B96Cbd64EBd6773D74758A57d63224641",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5716464431197554e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x064aCC25203f41c4487601B91AE0bcA0C7a9c256",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.648308597229145e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xD16798E82424ff7f800BdE260CF1562F3e6DcE4a",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.9872238238652546e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x7067A297dCA8b65ea94056fA447891fa51Df8027",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.959230060930605e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xD6921500208439fA0d0bE0bee23c4989397BFe5a",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.703778902689616e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x9d13D9a18cDa6Ab1dc27eFe2bAeAF9B1d4b257F7",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.2518253988689845e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xC0213C2d48b69834e3F939EA506F1dd67BA26eb6",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.5324675220030327e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xDcaB318875F1c9E8691A7e4230F2511367c1df9C",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.6515721325521117e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xF37f261949e365c5Ce8dD2E3778ADaf4cE48575c",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.723277167037681e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x9b8e2624a73041C64183d989Ea0B754689784145",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.070394379121286e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xdA2773D7155ABD7374C64E4E8C32a4D833c1f3cA",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 3.342618820843873e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x41efb8645b2C9f29040B017C6D1464614613dAbB",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.695606995511938e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x3455066fBbc1Dc97fCF2912A9dE4b23D77553249",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.7980105347103542e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x652913b8a371b19D69eEe13bc8407fDb545cdB44",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.2764680562195955e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x8Af6aB19c32B2C767E837e493c7A0111c1c55820",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5679065276075293e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xA79d6309d084035131C1844332adebA720df1dA6",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.0911952963581792e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x8Df5FeA35653561D1a3Dd2F81db3Ac6931770eE7",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.2218059058542605e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x2FCf064569b839A32E0d0D92305D2c2075216671",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.9746535906085263e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x9cc3C9dE55f74118c9BF437412423143F0E6d0FF",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.4702749473077279e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xc4d4eA42715Bc64ef8bD3ad9ebA1C6fbcBEdD9C5",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5014837737436647e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x0176639Df74A235D521eBE6BfFcd6D961d165649",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.613396461363192e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x9f160a70eaf409508ef200A49872deA31b120264",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.6284458063266895e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xDFF4D838d9a8E0a05DBF00C2eeAA71b2b98BAC46",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.8133040931489732e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xfD65a0cB845ca3814aD07BC9B923B50B92A627b6",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.067960798740387e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x16AF0840df6E5dBe27fB6384C0e249804AC41E40",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.2372090154223973e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x078797f8bC52D75d3Eb1ef1b24FB9Bc308706A4c",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.9384266601668465e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xc8adB9Dc42A57ee93e5EE86EAf8d552124b69E0B",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.25449463835469e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x5D47DA24A286d01B1dB7a0BEAdfAA4f956fe1DfE",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.4203787799234744e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xdB52829AeeE315cB076a9Ec39E49A4deA1df08F6",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.2406404217084248e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x0a317b1a9637c25E9eE8160bcCa861f17A9ab80F",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.4907891551653545e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x4e47426B17a0D5Fb8468C1BF48b56d0228D0a452",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5138909220695496e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xD48548Ad8A238E5f1a405DD51125c01B93928Ff2",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.7351935859079716e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x3D659b38d53b8e94B8EfeE6Ebc1D8d9500AfE948",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5534317051922833e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xBDB33BFe05312E712f7745849890DE67Ea0A9ab7",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.491152853877456e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x4fc0D9c0EB348d055fb89e84B630FC86247E980a",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.6765531014513085e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xC3CF8EF0E7454D4f86d397e83f09Ce8D3754AbE4",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.8571008134771278e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x8Adf1D921c68d01D248d598a51bBc94433343319",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.6136484013663397e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x54C85e660bbE5C370d644fBc65E15110B6b55Ea4",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.302372897112811e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xee5f8d6371822200bB8a1d02b03F26957A7CB0a8",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.7248654255160578e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x65f718052cbF0f155DAC57E04587212Bb5d84118",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.06575984204257e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x8b1C225544ae448AA2915A8BD7dd9Fd1c45dB307",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5932321548461915e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x87Ddb820C16C164b3716Acbc16D91895b8d5ed53",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.0027629755161427e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x65D31ddaFc3ab29De56A3AEE13B9e85B42b009e7",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.852189777074037e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x47492F5F86De0401Cf3C0fEE8a3c8ac5803A5473",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.1008956763479443e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x3f49Ed6cC7635751c1cD2176915241629D1ab16d",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.458428619084535e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x50C21B165D33aD3BfF3f23a7FfC92Ada3dB66413",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.2826884631757382e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x47D1865bD6e7b1dcBfF563b7f64e226d707B1018",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.9734076879642627e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x313249e16C818B51031B524ED704DE34226321B2",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.665757762061225e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x9413740d1b7F89dBfea7A4F9eC0d94a1A62fA187",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.836268714180699e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x18D78B54D6faD267bc63E890A70F2f6C13193a9F",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.542133589585622e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xA345EA7aC01e5c18baf2123A4C2Cc63c8A24023B",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.544922314308308e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x677ccFaa883f2ae862272dcC8D69673348105F70",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.5581457151307e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x85427Fa68145B13BD7BBF4a04B9Df7Fec03dfE58",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.6343370079994203e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x7F3A6f90942b0E086593CfF6206c0f8040221514",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.4884929966043543e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x047ecd793A7ADEeC0bBec3117E7715692b9A7293",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.428628961245219e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0xc33c2F6BA2a661f9d1a509D742cda2908798ec19",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.6908664946202878e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x3F3e6b44D345b66739bb01c16e68d015aA691171",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 2.0451476728474654e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  },
+  {
+    "address": "0x992365D3eAAb70AC3bfe140665f7Fd3E328b589D",
+    "credit_score": 670.9635590197769,
+    "features": {
+      "account_age_days": 1.512448544855471e-05,
+      "eth_balance": 0.0,
+      "tx_count": 0,
+      "tx_success_rate": 1.0,
+      "defi_interactions": 0,
+      "token_diversity": 0,
+      "malicious_score": 0.0,
+      "mixer_score": 0.0,
+      "delegation_capacity": 0.0,
+      "staked_collateral": 0.0,
+      "reputation_score": 0.0,
+      "delegations_given": 0,
+      "delegations_received": 0,
+      "delegation_success_rate": 0,
+      "zkp_usage": 0
+    },
+    "security_data": {
+      "malicious": {
+        "count": 0,
+        "details": [],
+        "score": 0.0
+      },
+      "mixer": {
+        "count": 0,
+        "transactions": [],
+        "score": 0.0
+      }
+    },
+    "delegation_data": null
+  }
+]
